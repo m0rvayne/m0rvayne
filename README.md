@@ -23,4 +23,4 @@ applying ML to MCP security — embedding-based tool poisoning detection, cosine
 
 ### stack
 
-Claude Code · Claude Cowork · Anthropic SDK · MCP · JavaScript / Node.js · Semgrep
+Claude Code · Claude Cowork · Anthropic SDK · MCP · JavaScript · Semgrep
