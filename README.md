@@ -1,6 +1,6 @@
 ## hey
 
-AI Automation Engineer at [Aivocado](https://aivocado.ai). Building MCP connectors and Claude pipelines for businesses.
+AI Automation Specialist. Building MCP connectors and Claude pipelines for businesses.
 
 70+ connectors deployed. When some started breaking silently — dead servers in configs, scope conflicts, unpinned packages — I built [mcp-redteam](https://github.com/m0rvayne/mcp-redteam) to catch this stuff automatically.
 
@@ -24,10 +24,6 @@ I design systems and use AI agents to build them faster — understand deeply, s
 ### what I understand
 
 transformers at the matrix level (QKV, multi-head attention, RoPE, GQA) · embeddings & cosine similarity · tokenization (BPE, byte-level) · RAG pipelines · agent orchestration (ReAct, multi-agent, tool calling) · MCP protocol internals
-
-### current focus
-
-AI operations agents on Claude — meeting → protocol → task board → calendar, with a human approving each step
 
 ### stack
 
