@@ -2,9 +2,9 @@
 
 AI Automation Engineer at [Aivocado](https://aivocado.ai). Building MCP connectors and Claude pipelines for businesses.
 
-70+ connectors deployed. When some started breaking silently — dead servers in configs, scope conflicts, unpinned packages — I built [mcp-redteam](https://github.com/m0rvayne/mcp-redteam) to catch this stuff automatically. Scanned 106 public MCP servers, found RCE in 7.
+70+ connectors deployed. When some started breaking silently — dead servers in configs, scope conflicts, unpinned packages — I built [mcp-redteam](https://github.com/m0rvayne/mcp-redteam) to catch this stuff automatically. Scanned 106 public MCP servers — 4 had confirmed remote code execution.
 
-I don't write code by hand much anymore. I architect systems and orchestrate AI agents to build them. Same approach [Karpathy described](https://htek.dev/articles/karpathy-directs-ai-agents-december-shift) — understand deeply, specify precisely, let agents implement.
+I design systems and use AI agents to build them faster — understand deeply, specify precisely, review what ships. My hands-on language is JavaScript.
 
 ### what I do
 
@@ -23,4 +23,4 @@ applying ML to MCP security — embedding-based tool poisoning detection, cosine
 
 ### stack
 
-Python · TypeScript · Claude Code · Anthropic SDK · Semgrep · MCP
+Claude Code · Claude Cowork · Anthropic SDK · MCP · JavaScript / Node.js · Semgrep
